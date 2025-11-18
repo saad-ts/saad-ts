@@ -2,7 +2,6 @@
 - 👀 I’m interested in Game Dev
 - 🌱 I’m currently learning Multi Threading
 - 💞️ I’m looking to collaborate on Open Source Game Dev Projects
-- 📫 How to reach me saad@tecshield.io
 - 😄 Pronouns: Sa'ad
 - ⚡ Fun fact: I'm also a gamer.
 
